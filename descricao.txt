@@ -22,7 +22,4 @@ Git para controle de versão.
 Git para trabalhar em equipe.
 Contribuindo com projetos Open Source no GitHub.
 Qual é o público-alvo?
-
-Qualquer pessoa que queira aprender sobre Controle de Versão e Git.
-Não programadores envolvidos com tecnologia, como Designers.
-Quem está procurando uma ferramenta para trabalho colaborativo.
+Programadores
