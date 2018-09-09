@@ -1,7 +1,5 @@
 mercurio
 venus
-<<<<<<< HEAD
-terra
 marte
 jupiter
 plutão
