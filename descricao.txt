@@ -24,3 +24,4 @@ Git para trabalhar em equipe.
 Contribuindo com projetos Open Source no GitHub.
 Qual é o público-alvo?
 Programadores
+Analistas
