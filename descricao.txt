@@ -25,3 +25,4 @@ Contribuindo com projetos Open Source no GitHub.
 Qual é o público-alvo?
 Programadores
 Analistas
+Arquitetos de Software
