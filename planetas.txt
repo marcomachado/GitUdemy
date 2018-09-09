@@ -1,9 +1,9 @@
 mercurio
 venus
-<<<<<<< HEAD
 terra
 marte
 jupiter
+saturno
 plutão
 urano
 netuno
