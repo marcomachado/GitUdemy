@@ -27,3 +27,4 @@ Programadores
 Analistas
 Arquitetos de Software
 engenheiro de software
+testadores
